@@ -13,8 +13,8 @@ My name is Sushant, and this page is intended to capture my key learnings from t
 | 5 | W261 - Machine Learning at Scale | Spring 2022 |
 | 6 | W266 - Natural Language Processing with Deep Learning | Summer 2022 |
 | 7 | W251 - Deep Learning in the Cloud and at the Edge | Fall 2022 | 
-| 8 | W255 - Machine Learning Systems Engineering | Spring 2023 | 
-| 8 |  W210 - Capstone | TBD | 
+| 8 | W255 - Machine Learning Systems Engineering | Spring 2023 (tentative) | 
+| 9 |  W210 - Capstone | TBD | 
 
 ### Profile
 
