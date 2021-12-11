@@ -44,7 +44,7 @@ The goal for me to attend the MIDS program has been to understand the intuition 
 
 #### Applied Machine Learning (W207)
 
-This course is at the heart of the course journey. With basic statistics background developed in W203, this ML course builds further int
+This course is at the heart of the course journey. With basic statistics background developed in W203, this ML course solidifies and furher stimulates the intuition for building ML models.  
 
 ##### Highlights
 
@@ -52,30 +52,18 @@ This course is at the heart of the course journey. With basic statistics backgro
 * Core concepts of Regularization, Gradient Descent, SVMs, Neural Networks, Dimensionality Reduction
 * Build the intuition behind these ML algorithms, their inner workings and apply those learnings to tune the hyper parameters.
 
-##### Project
+##### Project 
 * Lending Club - Built a Robo-Advisor application that would recommend to the investors on which loans will maximize profits while minimizing their risks.
-* Feature Engineering, Data Cleansing, Text Processing, Model Evaluation, 
+* Feature Engineering, Data Cleansing, Text Processing, Model building and evaluation, Hyper paramater tuning.
 
 ##### Skills
-* sklearn, Machine Learning design patterns, Jupyter Notebooks, Google Colab
+* sklearn, numpy, matplotlib, Machine Learning design patterns, Jupyter Notebooks, Google Colab
+
 
 #### Machine Learning at Scale (W261)
 
-##### Highlights
-##### Project
-##### Skills
+In Progress... 
 
-#### Natural Language Processing with Deep Learning (W266)
-
-##### Highlights
-##### Project
-##### Skills
-
-#### Deep Learning in the Cloud and at the Edge (W251)
-
-##### Highlights
-##### Project
-##### Skills
 
 
 
