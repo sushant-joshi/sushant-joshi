@@ -1,4 +1,4 @@
-# A mosaic of ideas, snippets of code, and the tapestry of projects they've woven.
+![Hi](header.png)
 
 Below is a summary of projects I have worked on.
 
