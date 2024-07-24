@@ -1,13 +1,19 @@
 ![Hi](header.png)
 
+## About me 
+
 - I am an experienced Software Engineer and Technical Leader working in Personalization and Recommender Systems Space.
-- Top Skills: Java, Python, Hadoop, Hive, Cassandra, Spark, Spring, Kubernetes, TensorFlow, GCP, A/B Testing, Personalization Algorithms, Data Pipelines, CI/CD
+- Top Skills: Java, Python, Hadoop, Hive, Cassandra, Spark, Spring, Kubernetes, TensorFlow, GCP, A/B Testing, Personalization Algorithms, Data Pipelines
 - 15+ years of experience delivering innovative solutions in large-scale distributed systems, big data, and machine learning environments.
 - Proven track record of leading engineering teams, optimizing system performance, and driving significant business impact.
 
+---
+
+## Projects
 Below is a list of recent academic projects I have worked on.
 
-- HealthLens AI
+---
+### HealthLens AI
   - Description: Developed a computer vision model for detecting glaucoma from fundus photographs using Vision Transformers, achieving 90% accuracy.
   - In collaboration with Amit Arora, Arindam Sett and Malay Patel 
   - Accomplishments:
@@ -15,7 +21,8 @@ Below is a list of recent academic projects I have worked on.
     - Collaborated with a team of data science students, ophthalmologists, and an academic advisor.
     - Utilized transfer learning and fine-tuning techniques on a limited dataset.
   
-- The Review Alchemist 
+---
+### The Review Alchemist 
   - Description: Developed a Question Answering model to extract answers from product reviews, focusing on subjective questions.
   - In collaboration with Malay Patel
   - Accomplishments:
@@ -23,7 +30,8 @@ Below is a list of recent academic projects I have worked on.
     - Experimented with various pre-trained models (BERT, DistilBERT) and datasets.
     - Performed error analysis to identify areas for improvement.
 
-- Parking Sentry
+---
+### Parking Sentry
   - Description: Developed and deployed deep learning models for vehicle and license plate detection using YOLOv5 and EasyOCR.
   - In collaboration with Arindam Sett and Malay Patel
   - Accomplishments:
@@ -31,7 +39,8 @@ Below is a list of recent academic projects I have worked on.
     - Evaluated model performance using mAP@0.5 and mAP@0.5-0.95, focusing on recall.
     - Integrated multiple pre-trained models with DeepStream SDK and TensorRT for real-time detection.
 
-- Tarmac Timeouts
+---
+### Tarmac Timeouts
   - Description: Developed a solution for predicting flight delays 2 hours before departure.
   - In collaboration with Kumar Narayanan, Ajeya Jayaram 
   - Accomplishments:
@@ -39,7 +48,8 @@ Below is a list of recent academic projects I have worked on.
     - Created and evaluated various machine learning models (logistic regression, random forest, MLP).
     - Implemented feature selection techniques (PCA, one-hot encoding).
 
-- The Algorithmic Underwriter
+---
+### The Algorithmic Underwriter
   - Description: Developed a Robo Advisor for Loan Applications using machine learning.
   - In collaboration with Hailemariam Bizunehe and Kris Junghee Lee
   - Accomplishments:
