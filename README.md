@@ -1,10 +1,15 @@
 ![Hi](header.png)
 
-Below is a summary of projects I have worked on.
+- I am an experienced Software Engineer and Technical Leader working in Personalization and Recommender Systems Space.
+- Top Skills: Java, Python, Hadoop, Hive, Cassandra, Spark, Spring, Kubernetes, TensorFlow, GCP, A/B Testing, Personalization Algorithms, Data Pipelines, CI/CD
+- 15+ years of experience delivering innovative solutions in large-scale distributed systems, big data, and machine learning environments.
+- Proven track record of leading engineering teams, optimizing system performance, and driving significant business impact.
+
+Below is a list of recent academic projects I have worked on.
 
 - HealthLens AI
   - Description: Developed a computer vision model for detecting glaucoma from fundus photographs using Vision Transformers, achieving 90% accuracy.
-  - In collaboration with Amit Arora, Arindam Sett and Malay Patel
+  - In collaboration with Amit Arora, Arindam Sett and Malay Patel 
   - Accomplishments:
     - Implemented an ensemble approach combining multiple ML algorithms (e.g., CNNs, SVMs) to improve model robustness.
     - Collaborated with a team of data science students, ophthalmologists, and an academic advisor.
