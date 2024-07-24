@@ -1,5 +1,7 @@
 # A mosaic of ideas, snippets of code, and the tapestry of projects they've woven.
 
+Below is a summary of projects I have worked on.
+
 - HealthLens AI
   - Description: Developed a computer vision model for detecting glaucoma from fundus photographs using Vision Transformers, achieving 90% accuracy.
   - Accomplishments:
