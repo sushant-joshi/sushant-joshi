@@ -49,7 +49,7 @@ Below is a list of recent academic projects I have worked on.
     - Implemented feature selection techniques (PCA, one-hot encoding).
 
 ---
-### The Algorithmic Underwriter
+### RoboAdvisor: The Algorithmic Underwriter
   - Description: Developed a Robo Advisor for Loan Applications using machine learning.
   - In collaboration with Hailemariam Bizunehe and Kris Junghee Lee
   - Accomplishments:
