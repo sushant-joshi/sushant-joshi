@@ -13,7 +13,7 @@
 Below is a list of recent academic projects I have worked on.
 
 ---
-### HealthLens AI
+### [HealthLens AI](https://www.ischool.berkeley.edu/people/8659/portfolio)
   - Description: Developed a computer vision model for detecting glaucoma from fundus photographs using Vision Transformers, achieving 90% accuracy.
   - In collaboration with Amit Arora, Arindam Sett and Malay Patel 
   - Accomplishments:
